@@ -9,7 +9,7 @@ title: "Home"
 
 ## About me
 
-I am a Ph.D. candidate in Computer Science at **XXX University**.  
+I am a Ph.D. student in Computer Science at **XXX University**.  
 My research interests include **mobile/edge systems**, **efficient deep learning**, and **GPU performance & reliability**.
 
 Previously, I received my M.S. in Computer Science from **YYY University**.
