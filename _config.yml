@@ -1,3 +1,11 @@
-# _config.yml
+title: "Your Name"
+description: "PhD Candidate in Computer Science"
 
 theme: minima
+
+# Top navigation bar showing pages
+header_pages:
+  - index.md        # English Home
+  - index-zh.md     # 中文主页（我们会给它 permalink: /zh/）
+  - publications.md
+  - cv.md
