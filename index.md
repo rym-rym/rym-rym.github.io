@@ -29,4 +29,4 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 ## Contact
 
 - Email: `rma5@gmu.edu`
-- GitHub: [your-github-username](https://github.com/rym-rym)
+- GitHub: [https://github.com/rym-rym](https://github.com/rym-rym)
