@@ -9,23 +9,25 @@ title: "Home"
 
 ## About me
 
-I am a Ph.D. student in Computer Science at **XXX University**.  
+I am a Ph.D. student in Computer Science at **George mason University**.  
 My research interests include **mobile/edge systems**, **efficient deep learning**, and **GPU performance & reliability**.
 
-Previously, I received my M.S. in Computer Science from **YYY University**.
+Previously, I received my M.S. in Computer Science from **George Washington University** and my B.S. in Information Security from **University of Electronic Science and Technology of China (UESTC)**.
 
 ## Research interests
 
-- Mobile and edge deep learning systems  
-- GPU scheduling, DVFS, and performance modeling  
-- Reliable and efficient model compression  
+- Model Compression, Mobile and edge deep learning systems
+- Reliable and efficient model compression
 - Uncertainty estimation and trustworthy AI
+- GPU scheduling, GPU resource scaling, and profiling
+- Network Measurement and Network security
+
 
 ## News
 
-- 2025 – Our paper *"Better Reliability Compression: Model Pruning with Calibrated Uncertainty Estimation for Mobile Deep Learning Applications"* was accepted at **MOST 2025**.
+- 2025 – Our paper *"Better Reliability Compression: Model Pruning with Calibrated Uncertainty Estimation for Mobile Deep Learning Applications"* was accepted at **IEEE MOST 2025**.
 
 ## Contact
 
-- Email: `youremail@xxx.edu`
-- GitHub: [your-github-username](https://github.com/your-github-username)
+- Email: `rma5@gmu.edu`
+- GitHub: [your-github-username](https://github.com/rym-rym)
