@@ -1,0 +1,12 @@
+{%- if site.author %}
+
+{% if site.author.name -%}
+  * {{ site.author.name | escape }}
+{% endif -%} {% if site.author.email -%}
+  * {{ site.author.email }}
+{%- endif %}
+{%- endif %}
+
+{{ site.description | escape }}
+
+{%- include social.html -%}
