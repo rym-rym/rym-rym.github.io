@@ -3,8 +3,21 @@
 
 @import "minima";
 
-/* More compact footer layout */
+/* 自定义 footer：右对齐 & 极窄 */
+/* Custom footer: right alignment & ultra thin */
+.custom-footer {
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+  margin-top: 0.5rem;
+  font-size: 0.80rem;
+  text-align: right;
+  opacity: 0.85;
+  line-height: 1.2;
+}
+
+/* Remove the default footer margin in minima */
 .site-footer {
-  padding-top: 0.3rem;
-  padding-bottom: 0.3rem;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
 }
