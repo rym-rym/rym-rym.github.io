@@ -17,9 +17,8 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 ## Research interests
 
 - Model Compression, Mobile and edge deep learning systems
-- Reliable and efficient model compression
 - Uncertainty estimation and trustworthy AI
-- GPU scheduling, GPU resource scaling, and profiling
+- Efficient Deep Learning, GPU scheduling, GPU resource scaling, and GPU profiling
 - Network Measurement and Network security
 
 
