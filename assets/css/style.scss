@@ -3,25 +3,22 @@
 
 @import "minima";
 
-/* Custom footer container: reduced padding and minimal vertical spacing */
-.custom-footer {
-  padding-top: 0.2rem !important;
-  padding-bottom: 0.2rem !important;
-  margin-top: 1.0rem; /* Adjust spacing between content and footer */
+/* Compact footer container: minimal vertical space */
+.site-footer.custom-footer {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-top: 1.0rem;  /* space between main content and footer */
 }
 
-/* Footer text styling: right-aligned, small font size, lightweight appearance */
-.custom-footer-text {
-  text-align: right;
+/* Align footer content to the right within the wrapper */
+.site-footer.custom-footer .wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Footer text style */
+.footer-right {
   font-size: 0.80rem;
-  margin: 0;
-  opacity: 0.85;
   line-height: 1.2;
-}
-
-/* Override minima's default footer spacing to make the footer more compact */
-.site-footer {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  margin-top: 0 !important;
+  opacity: 0.85;
 }
