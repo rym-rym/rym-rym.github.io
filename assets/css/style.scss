@@ -3,14 +3,15 @@
 
 @import "minima";
 
-/* 自定义 footer：右对齐 & 极窄 */
-/* Custom footer: right alignment & ultra thin */
+/* Custom footer container: reduced padding and minimal vertical spacing */
 .custom-footer {
   padding-top: 0.2rem !important;
   padding-bottom: 0.2rem !important;
+  margin-top: 1.0rem; /* Adjust spacing between content and footer */
 }
 
-.custom-footer-text{
+/* Footer text styling: right-aligned, small font size, lightweight appearance */
+.custom-footer-text {
   text-align: right;
   font-size: 0.80rem;
   margin: 0;
@@ -18,7 +19,7 @@
   line-height: 1.2;
 }
 
-/* Remove the default footer margin in minima */
+/* Override minima's default footer spacing to make the footer more compact */
 .site-footer {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
