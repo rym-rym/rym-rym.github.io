@@ -1,0 +1,48 @@
+---
+layout: default
+title: "AI 助手"
+permalink: /zh/chat-ai/
+---
+
+<div class="chat-ai-page">
+  <div class="chat-hero">
+    <p class="lang-toggle">
+      <a href="{{ '/chat-ai/' | relative_url }}">English</a> |
+      <a href="{{ '/zh/chat-ai/' | relative_url }}">中文</a>
+    </p>
+    <h1>个人主页 AI 助手</h1>
+    <p>
+      向我询问润宇的背景、项目、研究方向和技能。
+      我只讨论公开信息。
+    </p>
+    <p class="chat-nav-links">
+      <a href="{{ '/zh/chat-ai/' | relative_url }}">聊天</a> ·
+      <a href="{{ '/zh/metrics/' | relative_url }}">指标</a>
+    </p>
+  </div>
+
+  <div id="chat-window" role="log" aria-live="polite" aria-label="聊天消息">
+    <div class="message assistant">
+      👋 你好！我是马润宇个人主页的 AI 助手。欢迎询问有关他的公开背景、项目或经历的问题。
+    </div>
+  </div>
+
+  <form id="chat-form" autocomplete="off" novalidate>
+    <textarea
+      id="chat-input"
+      rows="2"
+      maxlength="1000"
+      placeholder="询问润宇的项目、经历或技能……"
+      aria-label="您的消息"
+    ></textarea>
+    <button type="submit" id="send-btn">发送</button>
+  </form>
+
+  <div class="char-counter" id="char-counter">0 / 1000</div>
+  <p class="chat-disclaimer">
+    本助手仅讨论公开的个人主页信息。
+    频率限制：每 10 分钟最多 10 条消息。
+  </p>
+</div>
+
+<script src="{{ '/assets/js/chat.js' | relative_url }}"></script>

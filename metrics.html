@@ -4,21 +4,23 @@ title: "Metrics"
 permalink: /metrics/
 ---
 
-<div class="chat-ai-page">
-  <div class="chat-hero">
-    <h1>Operational Metrics</h1>
-    <p>Live counters from the assistant backend. Resets on each deployment.</p>
-    <p class="chat-nav-links">
-      <a href="{{ '/chat-ai/' | relative_url }}">Chat</a> ·
-      <a href="{{ '/metrics/' | relative_url }}">Metrics</a>
+<div class="coming-soon-page">
+  <div class="coming-soon-container">
+    <p class="lang-toggle">
+      <a href="{{ '/metrics/' | relative_url }}">English</a> |
+      <a href="{{ '/zh/metrics/' | relative_url }}">中文</a>
     </p>
+    <div class="coming-soon-icon">📊</div>
+    <h1 class="coming-soon-title">Coming Soon</h1>
+    <p class="coming-soon-subtitle">The operational metrics dashboard is under construction.</p>
+    <div class="coming-soon-divider"></div>
+    <p class="coming-soon-description">
+      We're building a brand-new real-time metrics dashboard to show how the
+      AI assistant is performing. Stay tuned!
+    </p>
+    <div class="coming-soon-links">
+      <a href="{{ '/chat-ai/' | relative_url }}" class="coming-soon-btn">Go to AI Assistant</a>
+      <a href="/" class="coming-soon-btn coming-soon-btn-outline">Back to Home</a>
+    </div>
   </div>
-
-  <div id="metrics-root">
-    <p class="metrics-refresh-note">Loading…</p>
-  </div>
-
-  <p class="metrics-refresh-note" id="refresh-note"></p>
 </div>
-
-<script src="{{ '/assets/js/metrics.js' | relative_url }}"></script>
