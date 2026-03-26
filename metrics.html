@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Metrics"
+permalink: /metrics/
+---
+
+<div class="chat-ai-page">
+  <div class="chat-hero">
+    <h1>Operational Metrics</h1>
+    <p>Live counters from the assistant backend. Resets on each deployment.</p>
+    <p class="chat-nav-links">
+      <a href="{{ '/chat-ai/' | relative_url }}">Chat</a> ·
+      <a href="{{ '/metrics/' | relative_url }}">Metrics</a>
+    </p>
+  </div>
+
+  <div id="metrics-root">
+    <p class="metrics-refresh-note">Loading…</p>
+  </div>
+
+  <p class="metrics-refresh-note" id="refresh-note"></p>
+</div>
+
+<script src="{{ '/assets/js/metrics.js' | relative_url }}"></script>
