@@ -9,7 +9,7 @@
 "use strict";
 
 // ── Configuration ──────────────────────────────────────────
-const BACKEND_URL = "https://api.runyuma.uk";
+const BACKEND_URL = "http://api.runyuma.uk";
 const MAX_INPUT_LENGTH = 1000;
 
 // ── DOM refs ───────────────────────────────────────────────
