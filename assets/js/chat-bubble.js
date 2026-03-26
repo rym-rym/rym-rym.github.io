@@ -76,7 +76,14 @@
       var el = document.createElement("div");
       el.className = "cb-msg cb-msg-" + m.role;
       if (m.blocked) el.classList.add("cb-msg-blocked");
-      el.textContent = m.text;
+      if (m.role === "typing") {
+        var dotsEl = document.createElement("span");
+        dotsEl.className = "cb-typing-dots";
+        dotsEl.innerHTML = "<span></span><span></span><span></span>";
+        el.appendChild(dotsEl);
+      } else {
+        el.textContent = m.text;
+      }
       messagesEl.appendChild(el);
     });
     messagesEl.scrollTop = messagesEl.scrollHeight;
@@ -138,6 +145,10 @@
 
   toggle.addEventListener("click", openPanel);
   closeBtn.addEventListener("click", closePanel);
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && isOpen) closePanel();
+  });
 
   langBtn.addEventListener("click", function () {
     lang = lang === "en" ? "zh" : "en";
