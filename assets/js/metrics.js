@@ -7,7 +7,7 @@
 "use strict";
 
 // ── Configuration ──────────────────────────────────────────
-const BACKEND_URL = "https://api.yourexpress.dev"; // update after deployment
+const BACKEND_URL = "http://3.214.5.41:8000";
 const POLL_INTERVAL_MS = 10_000;
 
 // ── DOM refs ───────────────────────────────────────────────
