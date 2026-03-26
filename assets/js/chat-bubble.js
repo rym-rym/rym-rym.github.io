@@ -10,7 +10,7 @@
 
 (function () {
   // ── Configuration ────────────────────────────────────────
-  var BACKEND_URL = "http://api.runyuma.uk";
+  var BACKEND_URL = "https://api.runyuma.uk";
   var MAX_INPUT_LENGTH = 1000;
 
   // ── i18n strings ─────────────────────────────────────────
