@@ -7,7 +7,5 @@ theme: minima
 header_pages:
   - index.md        # English Home
   - index-zh.md     # 中文主页
-  - chat-ai.html    # AI Assistant
-  - chat-ai-zh.html # AI 助手
   - metrics.html    # Metrics
   - metrics-zh.html # 指标

@@ -28,8 +28,9 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 
 ## Tools
 
-- 🤖 [AI Assistant](/chat-ai/) — Chat with an AI about my background and research
 - 📊 [Metrics Dashboard](/metrics/) — Operational metrics for the assistant
+
+> 💬 **Tip:** Click the chat bubble in the bottom-right corner to talk to the AI assistant!
 
 ## Contact
 
