@@ -79,7 +79,7 @@
       if (m.role === "typing") {
         var dotsEl = document.createElement("span");
         dotsEl.className = "cb-typing-dots";
-        dotsEl.innerHTML = "<span></span><span></span><span></span>";
+        for (var d = 0; d < 3; d++) dotsEl.appendChild(document.createElement("span"));
         el.appendChild(dotsEl);
       } else {
         el.textContent = m.text;
