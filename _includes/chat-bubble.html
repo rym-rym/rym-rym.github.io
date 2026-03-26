@@ -1,0 +1,30 @@
+<!-- Floating Chat Bubble -->
+<div id="chat-bubble-toggle" title="Chat with AI Assistant" aria-label="Open chat">
+  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+       stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+  </svg>
+</div>
+
+<div id="chat-bubble-panel" class="chat-bubble-hidden">
+  <div id="chat-bubble-header">
+    <span id="chat-bubble-title">AI Assistant</span>
+    <div id="chat-bubble-actions">
+      <button id="chat-bubble-lang" title="Switch language" aria-label="Switch language">中文</button>
+      <button id="chat-bubble-close" title="Close chat" aria-label="Close chat">&times;</button>
+    </div>
+  </div>
+  <div id="chat-bubble-messages" role="log" aria-live="polite"></div>
+  <form id="chat-bubble-form" autocomplete="off" novalidate>
+    <textarea id="chat-bubble-input" rows="1" maxlength="1000"
+              placeholder="Ask me anything…" aria-label="Your message"></textarea>
+    <button type="submit" id="chat-bubble-send" aria-label="Send">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+      </svg>
+    </button>
+  </form>
+</div>
+
+<script src="{{ '/assets/js/chat-bubble.js' | relative_url }}"></script>

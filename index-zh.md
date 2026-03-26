@@ -26,6 +26,12 @@ permalink: /zh/
 
 - 2025 年 —— 论文《Better Reliability Compression: Model Pruning with Calibrated Uncertainty Estimation for Mobile Deep Learning Applications》被 **MOST 2025** 录用。
 
+## 工具
+
+- 📊 [指标面板](/zh/metrics/) — 助手运行指标
+
+> 💬 **提示：** 点击右下角的聊天气泡即可与 AI 助手对话！
+
 ## 联系方式
 
 - 邮箱：`youremail@xxx.edu`  

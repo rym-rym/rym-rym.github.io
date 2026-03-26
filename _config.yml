@@ -6,8 +6,6 @@ theme: minima
 # Top navigation bar showing pages
 header_pages:
   - index.md        # English Home
-  - index-zh.md     # 中文主页（我们会给它 permalink: /zh/）
-  - chat-ai.html    # AI Assistant
-  - metrics.html    # Assistant Metrics
-  - publications.md
-  - cv.md
+  - index-zh.md     # 中文主页
+  - metrics.html    # Metrics
+  - metrics-zh.html # 指标

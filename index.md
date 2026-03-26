@@ -26,6 +26,12 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 
 - 2025 – Our paper *"Better Reliability Compression: Model Pruning with Calibrated Uncertainty Estimation for Mobile Deep Learning Applications"* was accepted at **IEEE MOST 2025**.
 
+## Tools
+
+- 📊 [Metrics Dashboard](/metrics/) — Operational metrics for the assistant
+
+> 💬 **Tip:** Click the chat bubble in the bottom-right corner to talk to the AI assistant!
+
 ## Contact
 
 - Email: `rma5@gmu.edu`
