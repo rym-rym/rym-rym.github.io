@@ -7,8 +7,9 @@ title: "Home"
   <a href="/">English</a> | <a href="/zh/">中文</a>
 </p>
 
-## This is the legacy version of Runyu Ma's homepage. ##
-## Some information and functions may defect. ##
+**This is the legacy version of Runyu Ma's homepage.**
+**Some information and functions may defect.**
+Please move forward to *www.runyuma.uk*. Btw, the domain of *.com* is too expensive.
 
 ## About me
 
