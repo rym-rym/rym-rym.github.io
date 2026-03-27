@@ -10,10 +10,10 @@ permalink: /zh/
 
 ## 关于我
 
-我目前是 **XXX 大学计算机科学系的博士生**，主要研究方向包括  
-**移动与边缘系统上的深度学习**、**GPU 性能与可靠性**、以及 **高效模型压缩与不确定性估计**。
+我于2025年12月从 **乔治梅森大学** 获得计算机与信息科学硕士学位，并有数年博士级课题研究经验， 现积极寻求为工业界贡献个人技能和经验的机会。
+主要研究方向包括 **移动与边缘系统上的深度学习**、**安全与高性能的AI系统**, **基于GPU的高性能计算**。
 
-此前，我在 **YYY 大学** 获得了计算机科学硕士学位。
+此前，我在 ** 乔治华盛顿大学** 获得了计算机科学硕士学位， 以及2016年从**电子科技大学**获得信息安全本科学位。
 
 ## 研究兴趣
 
@@ -34,5 +34,5 @@ permalink: /zh/
 
 ## 联系方式
 
-- 邮箱：`youremail@xxx.edu`  
-- GitHub：[your-github-username](https://github.com/your-github-username)
+- 邮箱：`runyumajob@gmail.com`  
+- GitHub：[rym-rym](https://github.com/rym-rym), [yourexpress](https://github.com/yourexpress)
