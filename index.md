@@ -7,6 +7,9 @@ title: "Home"
   <a href="/">English</a> | <a href="/zh/">中文</a>
 </p>
 
+## This is the legacy version of Runyu Ma's homepage. ##
+## Some information and functions may defect. ##
+
 ## About me
 
 I earned my M.S. in Computer Science at **George mason University** in Dec 2025, after several years of research.  
