@@ -9,8 +9,8 @@ title: "Home"
 
 ## About me
 
-I am a Ph.D. student in Computer Science at **George mason University**.  
-My research interests include **mobile/edge systems**, **efficient deep learning**, and **GPU performance & reliability**.
+I earned my M.S. in Computer Science at **George mason University** in Dec 2025, after several years of research.  
+My research interests include **mobile/edge systems**, **safe and efficient AI system**, and **High Performance GPU Computation**.
 
 Previously, I received my M.S. in Computer Science from **George Washington University** and my B.S. in Information Security from **University of Electronic Science and Technology of China (UESTC)**.
 
@@ -30,9 +30,10 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 
 - 📊 [Metrics Dashboard](/metrics/) — Operational metrics for the assistant
 
-> 💬 **Tip:** Click the chat bubble in the bottom-right corner to talk to the AI assistant!
+> 💬 **Tip:** Click the chat bubble in the bottom-right corner to talk to the AI assistant! (I'm making it smarter.)
 
 ## Contact
 
 - Email: `rma5@gmu.edu`
 - GitHub: [https://github.com/rym-rym](https://github.com/rym-rym)
+- Github: [https://github.com/yourexpress](https://github.com/yourexpress)
