@@ -35,5 +35,4 @@ Previously, I received my M.S. in Computer Science from **George Washington Univ
 ## Contact
 
 - Email: `rma5@gmu.edu`
-- GitHub: [https://github.com/rym-rym](https://github.com/rym-rym)
-- Github: [https://github.com/yourexpress](https://github.com/yourexpress)
+- GitHub: [rym-rym](https://github.com/rym-rym), [yourexpress](https://github.com/yourexpress)
